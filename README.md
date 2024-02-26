@@ -1,4 +1,5 @@
-### Hi there 👋
+### Heya
+I'm a nerd that loves arch linux, neovim, and game development.
 
 <!--
 **Kimbix/Kimbix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
