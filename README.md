@@ -1,17 +1,13 @@
-### Heya
-I'm a nerd that loves arch linux, neovim, and game development.
+## About me
 
-<!--
-**Kimbix/Kimbix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Neovim enthusiast, here's my [config](https://github.com/Kimbix/Neobix)
+- Arch Linux user (btw), here's my [dotfiles](https://github.com/Kimbix/dotfiles)
+- Roguelike lover
+- Proud founder of the [Meatbox](https://github.com/MeatboxDev)
+- VENEZUELA MENTIONED!!!
 
-Here are some ideas to get you started:
+## Currently on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning rust because it's fun
+- Currently studing "Ingenieria Informatica" at Universidad Catolica Andres Bello
+- Working in on my own roguelike, fun activities :)
