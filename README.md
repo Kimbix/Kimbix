@@ -1,13 +1,12 @@
 ## About me
 
 - Neovim enthusiast, here's my [config](https://github.com/Kimbix/Neobix)
-- Arch Linux user (btw), here's my [dotfiles](https://github.com/Kimbix/dotfiles)
+- No-Life-Nix-User [dotfiles](https://github.com/Kimbix/NixBix)
 - Roguelike lover
 - Proud founder of the [Meatbox](https://github.com/MeatboxDev)
 - VENEZUELA MENTIONED!!!
 
 ## Currently on
 
-- Learning rust because it's fun
-- Currently studing "Ingenieria Informatica" at Universidad Catolica Andres Bello
-- Working in on my own roguelike, fun activities :)
+- Currently studing "Ingenieria Informatica" at UC(R)AB 🦀
+- Working on a dating sim (how did it come to this)
